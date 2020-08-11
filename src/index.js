@@ -1,2 +1,2 @@
 console.log('Hi world')
-const saludo = prompt(Holaa)
+const saludo = prompt('Holaa')
